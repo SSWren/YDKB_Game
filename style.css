@@ -1,0 +1,22 @@
+body{
+    background-image: url("./assets/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.lineone {
+    color: black;
+    font-size: 150px
+}
+
+.linetwo {
+    color: black;
+    font-size: 300px;
+}
+
+p {
+    padding: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic';
+}

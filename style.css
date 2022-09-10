@@ -6,7 +6,8 @@ body {
     box-sizing: border-box;
 }
 
-body .home {
+body#qstnHome {
+    background-image: none;
     background-size: cover;
     background-color: black;
     box-sizing: border-box;
@@ -39,3 +40,10 @@ h3 {
     font-size: 50px;
 }
 
+p {
+    color: red;
+}
+
+.qstnContainer {
+    align-items: center;
+}

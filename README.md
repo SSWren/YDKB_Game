@@ -38,4 +38,3 @@ Game Completion
 Possible options:
 	• Storing high score
 	• Box where you can notate subjects you want to research later
-![image](https://user-images.githubusercontent.com/103152230/189486233-5c0da42e-22f2-4874-b5eb-dc2a25981131.png)
